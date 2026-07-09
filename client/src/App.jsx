@@ -109,6 +109,14 @@ function App() {
         </>
       ),
     },
+     {
+      path: "/orders",
+      element: (
+        <>
+          <OrderSuccess />
+        </>
+      ),
+    },
     {
       path: "/dashboard",
       element: (
