@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "https://revoltkartfrontend.vercel.app",
+    origin: "https://revoltkartfrontendmain.vercel.app",
     credentials: true,
   }),
 );
