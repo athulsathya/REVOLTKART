@@ -15,7 +15,7 @@ function Hero() {
             <h1 className="text-5xl md:text-6xl font-bold leading-tight text-gray-900">
               Latest Electronics
               <span className="block text-gray-600">
-                At The Best Prices
+                At The Best Prices!!!
               </span>
             </h1>
 
